@@ -601,24 +601,24 @@ nav ul li:nth-child(4){
 	border-bottom: 1px dashed #d2d2d2;
 }
 .main4 > div a:nth-child(1){
-	background: url(../image/q1.png) no-repeat 28px center;
+	background: url(../image/q1.png) no-repeat 0.7rem center;
 	background-size: 1.85rem 0.95rem
 }
 .main4 > div a:nth-child(2){
-	background: url(../image/q2.png) no-repeat 28px center;
+	background: url(../image/q2.png) no-repeat 0.7rem center;
 	background-size: 1.85rem 0.95rem
 }
 .main4 > div a:nth-child(3){
-	background: url(../image/q3.png) no-repeat 28px center;
+	background: url(../image/q3.png) no-repeat 0.7rem center;
 	background-size: 1.85rem 0.95rem
 }
 .main4 > div a:nth-child(4){
-	background: url(../image/q4.png) no-repeat 28px center;
+	background: url(../image/q4.png) no-repeat 0.7rem center;
 	background-size: 1.85rem 0.95rem
 }
 .main4 > div a:nth-child(5){
 	border: none;
-	background: url(../image/q5.png) no-repeat 28px center;
+	background: url(../image/q5.png) no-repeat 0.7rem center;
 	background-size: 1.85rem 0.95rem
 }
 .main4 .a2{
